@@ -1,0 +1,13 @@
+.jp-rootWidget {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.jp-rootCartoon {
+    margin: auto;
+}
+
+.jp-rootAttribution {
+    margin: 20px auto;
+}
