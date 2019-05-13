@@ -10,7 +10,7 @@ JupyterLab extension for drawing CERN ROOT files content, utilizing JSROOT
 ## Installation
 
 ```bash
-jupyter labextension install jupyterlab-root-viewer
+jupyter labextension install @zaitsev136/jupyterlab-root-viewer
 ```
 
 ## Development
